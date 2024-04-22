@@ -6,22 +6,8 @@
 % Set page size and margins
 \usepackage[a4paper,top=2cm,bottom=2cm,left=2.5cm,right=2.5cm,marginparwidth=1.75cm]{geometry}
 
-%----------- APA style references & citations (starting) ---
-% Useful packages
-%\usepackage[natbibapa]{apacite} % APA-style citations.
-
-\usepackage[style=ieee, backend=biber]{biblatex} % APA 7th edition style citations using biblatex
+\usepackage[style=ieee, backend=biber]{biblatex} % IEEE style citations using biblatex
 \addbibresource{references.bib} % Your .bib file
-
-% Formatting DOI in APA-7 style
-%\renewcommand{\doiprefix}{https://doi.org/}
-
-% Modify 'and' to '&' in the bibliography
-\renewcommand*{\finalnamedelim}{%
-  \ifnumgreater{\value{liststop}}{2}{\finalandcomma}{}%
-  \addspace\&\space}
-  
-%----------- APA style references & citations (ending) ---
 
 
 \usepackage{amsmath}
