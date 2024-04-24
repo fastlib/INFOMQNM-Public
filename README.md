@@ -44,7 +44,7 @@ The project consists of two phases: i) the proposal, and ii) research phase. In 
 
 ## Main guidelines
 - Study design should include
-    - >1 independent variable and
+    - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (both is also fine)
 - Check whether assumptions underlying the selected statistical analysis are met. If not, provide a remedy or alternative analysis
 - Report on post-hoc analysis or supplementary analysis including an appropiate type of regression analysis or a well-justified alternative
@@ -73,7 +73,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 
 ### 2. Research question
 - Research question should include:
-    - >1 independent variable and
+    - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
 - Come together as a team and brainstorm about research questions. Be creative!
 - Examples:
@@ -92,7 +92,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 
 ### 3. Project proposal
 - Study design should include:
-    - >1 independent variable and
+    - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
 - Suggest post-hoc analysis or supplementary analysis including an appropriate type of regression analysis or a well-justified alternative 
 - Note: You have only 2-2.5 weeks to write!
@@ -208,7 +208,7 @@ Please read all information in this repository carefully. Check all the boxes if
 
 ### Main guidelines
 - Study design should include
-    - >1 independent variable and
+    - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (both is also fine)
 - Check whether assumptions underlying the selected statistical analysis are met. If not, provide a remedy or alternative analysis
 - Report on post-hoc analysis or supplementary analysis including an appropiate type of regression analysis or a well-justified alternative
