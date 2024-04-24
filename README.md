@@ -43,7 +43,9 @@ The project consists of two phases: i) the proposal, and ii) research phase. In 
 - Thu. 13/06/2024: Presentations day 2, please email me to reserve a timeslot otherwise you will be assigned a day at random. First come, first serve.
 
 ## Main guidelines
-- Study design should include >1 independent variable and >1 dependent variable or a within subject factor design (both is also fine)
+- Study design should include
+    - >1 independent variable and
+    - either >1 dependent variable or a within subject factor design (both is also fine)
 - Check whether assumptions underlying the selected statistical analysis are met. If not, provide a remedy or alternative analysis
 - Report on post-hoc analysis or supplementary analysis including an appropiate type of regression analysis or a well-justified alternative
 
@@ -70,17 +72,28 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 - **Choose a team name**
 
 ### 2. Research question
-- Research question should include >1 independent variable and >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
+- Research question should include:
+    - >1 independent variable and
+    - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
 - Come together as a team and brainstorm about research questions. Be creative!
+- Examples:
+    - Do **eating times** and **sleep quality** affect **heart rate, blood pressure, and weight** when correcting for **age**?
+    - Do **genre** and **tempo** affect **valence** and **dancability**? 
+    - Do **time of first sunlight** and **the intensity of outdoor activity** affect **smartphone usage** and **mood**? 
+    - Do **mood** and **personality traits** change **the frequency of skin conductance responses** over time?  
 - TIP: Try to follow your genuine interest or passion when brainstorming. This will increase your team's motivation tremendously!
-- Sent me your research question(s) as soon as possible but at least **before Tue. 30/04/2024 11:00**
+- TIP: Make sure that your research question can be supported by literature (i.e., that it makes sense). Otherwise, you'll have a hard time writing the proposal.
+- You can send me a main research question with sub-research questions. However, the main questions should adhere to the main guidelines.
+- Sent me your research question as soon as possible but at least **before Tue. 30/04/2024 11:00**
 - I will reject your research question if it is too similar to the original paper's research question. As such, make sure you have read the paper! You can access them via each dataset's README.md file.
 - I will reject your research question if it has too much overlap with a team's research question that was already sent in.
 - You will receive approval or rejection within 1 working day.
-- TIP: The sooner you sent your research question(s), the sooner you will receive approval, the sooner you can start writing your project proposal!
+- TIP: The sooner you sent your research question, the sooner you will receive approval, the sooner you can start writing your project proposal!
 
 ### 3. Project proposal
-- Study design should include >1 independent variable and >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
+- Study design should include:
+    - >1 independent variable and
+    - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
 - Suggest post-hoc analysis or supplementary analysis including an appropriate type of regression analysis or a well-justified alternative 
 - Note: You have only 2-2.5 weeks to write!
 - A LaTex template is available in [the project proposal folder](Proposal)
@@ -90,7 +103,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 - See the project proposal document for more details.
 
 ### 4. Project proposal feedback and Go/No-Go
-- After handing in the project proposal, you'll receive feedback on **Thu. 16/04/2024 between 13:15 and 17:00**
+- After handing in the project proposal, you'll receive feedback on **Thu. 16/04/2024 between 13:15 and 18:00**
 - Based on the feedback you'll either get a:
     - Go: You can begin working on phase 2 of the project
     - No-Go: Don't worry, you'll have to update the proposal based on the feedback you received before you can proceed :)
@@ -194,6 +207,8 @@ Furthermore, you can achieve additional bonus points depending on the dataset's 
 Please read all information in this repository carefully. Check all the boxes if you don't want to be surprised by point subtractions in the end. For example, adhere to the templates I give you and do not exceed the maximum number of pages (6 for proposal, 12 for final report). Also, make sure to double check both your proposal and final report before handing it in. We will sent back the report if we notice there are large errors in your document that you could have spotted by checking the document. Please take the effort to hand in a proper report. In turn, we will take the effort of reading and grading it. Make sure your research question(s) and statistical analyses follow the guidelines as said in the template and in section [Main guidelines](#main-guidelines). Also, make sure that I can reproduce all your statistical tests (see [Supplementary Material](#4-supplementary-material)). 
 
 ### Main guidelines
-- Study design should include >1 independent variable and >1 dependent variable or a within subject factor design (both is also fine)
+- Study design should include
+    - >1 independent variable and
+    - either >1 dependent variable or a within subject factor design (both is also fine)
 - Check whether assumptions underlying the selected statistical analysis are met. If not, provide a remedy or alternative analysis
 - Report on post-hoc analysis or supplementary analysis including an appropiate type of regression analysis or a well-justified alternative
