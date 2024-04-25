@@ -1,5 +1,6 @@
 # Changelog
 
+- Fri 26/04/2024: Updated difficulty score description of MERP. More specifically, the case when zero points are awarded.
 - Thu 25/04/2024: Updated criteria for maximum bonus point of TIHM. Please read if you are using the TIHM dataset.
 - Wed 24/04/2024: Small typos and clarification of the guidelines
 
