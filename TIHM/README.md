@@ -13,7 +13,7 @@
 ## Difficulty score
 The diffculty score for this dataset is 0.5. This means that a maximum of 0.5 bonus points can be achieved depending on the complexity of your preprocessing and feature extraction.
 
-For a maximum score: Extract at least two features from the activity and sleep data streams. Processing and feature extraction should not be trivial.
+For a maximum score: Extract at least two features from the activity **or** sleep data streams. Processing and feature extraction should not be trivial.
 
 ## Access
 
