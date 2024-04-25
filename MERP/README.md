@@ -10,9 +10,9 @@
 - Read the paper as many statistical tests are already performed by the authors!
 
 ## Difficulty score
-The diffculty score for this dataset is 0.75. However, if you are only using raters' profile information as independent variables. Then, no preprocessing is required which would result in a bonus score of 0. 
+The diffculty score for this dataset is 0.75. However, if you are only using the questionnaire variables from the raters' profile information as the dependent and independent variables, then no preprocessing is required which would result in a bonus score of 0. 
 
-For a maximum score: If you are succesfully processing and using at least two continuous audio features and the continuous valence/arousal annotations in your statistical analysis, you obtain 0.75 bonus points. Processing and feature extraction should not be trivial.
+For a maximum score: If you are succesfully processing and using at least two continuous audio features and the continuous valence and arousal annotations in your statistical analysis, you obtain 0.75 bonus points. Processing and feature extraction should not be trivial.
 
 
 ## Access
