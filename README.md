@@ -1,5 +1,6 @@
 # Changelog
 
+- Mon 29/04/2024: Added clarification in [Project Proposal description](#3-project-proposal).
 - Fri 26/04/2024: Updated difficulty score description of MERP. More specifically, the case when zero points are awarded.
 - Thu 25/04/2024: Updated criteria for maximum bonus point of TIHM. Please read if you are using the TIHM dataset.
 - Wed 24/04/2024: Small typos and clarification of the guidelines
@@ -86,7 +87,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
     - Do **eating times** and **sleep quality** affect **heart rate, blood pressure, and weight** when correcting for **age**?
     - Do **genre** and **tempo** affect **valence** and **dancability**? 
     - Do **time of first sunlight** and **the intensity of outdoor activity** affect **smartphone usage** and **mood**? 
-    - Do **mood** and **personality traits** change **the frequency of skin conductance responses** over time?  
+    - Do **mood** and **personality traits (neuroticism)** change **the frequency of skin conductance responses** over time?  
 - TIP: Try to follow your genuine interest or passion when brainstorming. This will increase your team's motivation tremendously!
 - TIP: Make sure that your research question can be supported by literature (i.e., that it makes sense). Otherwise, you'll have a hard time writing the proposal.
 - You can send me a main research question with sub-research questions. However, the main questions should adhere to the main guidelines.
@@ -100,6 +101,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 - Study design should include:
     - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
+- Your research question needs to be answered using one omnibustest (one large statistical test) and multiple post-hoc analyses
 - Suggest post-hoc analysis or supplementary analysis including an appropriate type of regression analysis or a well-justified alternative 
 - Note: You have only 2-2.5 weeks to write!
 - A LaTex template is available in [the project proposal folder](Proposal)
