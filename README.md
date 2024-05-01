@@ -1,5 +1,6 @@
 # Changelog
 
+- Wed 01/05/2024: Fixed typos, added feedback schedule, and added clarification in [Project Proposal description](#3-project-proposal)
 - Mon 29/04/2024: Added clarification in [Project Proposal description](#3-project-proposal).
 - Fri 26/04/2024: Updated difficulty score description of MERP. More specifically, the case when zero points are awarded.
 - Thu 25/04/2024: Updated criteria for maximum bonus point of TIHM. Please read if you are using the TIHM dataset.
@@ -101,17 +102,19 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 - Study design should include:
     - more than 1 independent variable and
     - either >1 dependent variable or a within subject factor design (i.e., repeated measures) (both is also fine)
-- Your research question needs to be answered using one omnibustest (one large statistical test) and multiple post-hoc analyses
+- Your research question needs to be answered using one omnibustest (one large statistical test) and (multiple) post-hoc analyses
 - Suggest post-hoc analysis or supplementary analysis including an appropriate type of regression analysis or a well-justified alternative 
 - Note: You have only 2-2.5 weeks to write!
 - A LaTex template is available in [the project proposal folder](Proposal)
 - Adhere to the section outline as presented in the template!
-- We will sent the report back if you fail to adhere to the template or page limit.
+- We will send the report back if you fail to adhere to the template or page limit (i.e., max. 6 pages excluding figures, tables, and refs).
+- Double check your report when handing it in. It will be send back when obvious errors are still present (e.g., unfinished sentences, copied text, etc.)
+- Generative AI is not allowed to write text (see [Use of generative AI](#use-of-generative-ai))
 - **Send in your proposal in .PDF format by email before Tue. 14/05/2024 11:00**
 - See the project proposal document for more details.
 
 ### 4. Project proposal feedback and Go/No-Go
-- After handing in the project proposal, you'll receive feedback on **Thu. 16/04/2024 between 13:15 and 18:00**
+- After handing in the project proposal, you'll receive feedback on **Thu. 16/05/2024 between 13:15 and 18:00**
 - Based on the feedback you'll either get a:
     - Go: You can begin working on phase 2 of the project
     - No-Go: Don't worry, you'll have to update the proposal based on the feedback you received before you can proceed :)
@@ -119,7 +122,7 @@ In the first phase of the project (April 23rd - May 14th), you will form a team,
 - You'll be assigned a random 10-minute timeslot. To keep things fair, this order will be reversed in the second feedback round. Check schedule [here](AdditionalInformation/schedules.md)
 - Prepare your feedback meeting as you only have 10 minutes to ask questions and get feedback (other questions can be sent via email or during the lab sessions)
 - I will be very strict on time as the schedule is tight. 10 minutes = 10 minutes
-- As there are 26-30 pairs, the last talks will be between 17.00 and 18.00
+- As there are 26 pairs, the last talks will be between around 18.00.
 
 
 ## Phase 2: Research and report
@@ -134,7 +137,7 @@ In the second phase of the project (May 14th - June 13th), you will conduct the 
 - You are allowed to use any programming language you like for feature extraction.
 - We only offer support for Python, R and SPSS
 
-### 3. Optional feedback
+### 3. Feedback
 - Near the end of the second phase, there's a second round of feedback.
 - We will talk about progress and your questions.
 - Make sure to hand in material you want me to have read, before **Thu. 30/05/2024 13:15**
@@ -159,7 +162,7 @@ In the second phase of the project (May 14th - June 13th), you will conduct the 
 - Max. 6 minutes
 - Presentations will be a part of your final grade.
 - More information about the presentations will be announced [here](AdditionalInformation/presentations.md) in due time.
-- Presentations will be divided into two sessions. One on Tuesday and one on Thursday during the regular lecture times. Each session features 13-15 presentations.
+- Presentations will be divided into two sessions. One on Tuesday and one on Thursday during the regular lecture times. Each session features 13 presentations.
 - If you have a preference, email me to reserve your spot in one of the sessions. Otherwise, I will assign you to a random slot.
 
 
