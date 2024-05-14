@@ -11,8 +11,8 @@ Due to GDPR and privacy reasons, only team ID's are used. See blackboard for tea
 | 13.35-13.45 | TIHM 3     |   | 16.55-17.05 | EMOPHONE 3 |
 | 13.45-13.55 | TIHM 4     |   | 17.05-17.15 | EMOPHONE 5 |
 | 13.55-14.05 | TIHM 5     |   | 17.15-17.25 | SPOTIFY 1  |
-|             |            |   | 17.25-17.35 | SPOTIFY 2  |
-|             |            |   | 17.35-17.45 | SPOTIFY 3  |
+|             |            |   | 17.25-17.35 | SPOTIFY 3  |
+|             |            |   |             |            |
 | 14.15-14.25 | MERP 1     |   |             |            |
 | 14.25-14.35 | MERP 2     |   |             |            |
 | 14.35-14.45 | MERP 3     |   |             |            |
