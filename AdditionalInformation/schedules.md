@@ -2,7 +2,7 @@
 
 ## Feedback sessions
 
-Due to GDPR and privacy reasons, only team ID's are used. See blackboard for team information.
+Due to GDPR and privacy reasons, only team ID's are used. See blackboard for team information. Specifically, the announcement of Tuesday May 14th. There you can find an Excel file containing the teams and their ID's.
 
 | Time        | Team ID    |   | Time        | Team ID    |
 | ----------- | ---------- | - | ----------- | ---------- |
