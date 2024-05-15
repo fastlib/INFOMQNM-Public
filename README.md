@@ -1,5 +1,6 @@
 # Changelog
 
+- Tue 14/05/2024: **See blackboard announcement for your team ID's and more information about the feedback sessions!**
 - Wed 01/05/2024: Fixed typos, added feedback schedule, and added clarification in [Project Proposal description](#3-project-proposal)
 - Mon 29/04/2024: Added clarification in [Project Proposal description](#3-project-proposal).
 - Fri 26/04/2024: Updated difficulty score description of MERP. More specifically, the case when zero points are awarded.
