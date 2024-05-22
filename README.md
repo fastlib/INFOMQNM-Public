@@ -1,5 +1,6 @@
 # Changelog
 
+- Wed 15/05/2024: Added Final report template in the [Final](Final) folder
 - Tue 14/05/2024: **See blackboard announcement for your team ID's and more information about the feedback sessions!**
 - Wed 01/05/2024: Fixed typos, added feedback schedule, and added clarification in [Project Proposal description](#3-project-proposal)
 - Mon 29/04/2024: Added clarification in [Project Proposal description](#3-project-proposal).
@@ -152,11 +153,11 @@ In the second phase of the project (May 14th - June 13th), you will conduct the 
 - I will do my best to reproduce your results, but if I'm unable to do so, you will get penalized. Instruct me well! Assume I'm one of your parents/little siblings/dog.
 
 ### 5. Final report
-- A LaTex template is available in the final report folder
+- A LaTex template is available in the [final report folder](Final)
 - Adhere to the section outline as presented in the template!
 - We will sent your report back if you fail to adhere to the template or page limit.
 - Sent in your **final report in .PDF format** and **your supplementary material as a ZIP file** by email **before Tue. 13/06/2024 23:00**
-- See the final report document for more details. [document comming soon]
+- See the [final report document](Final) for more details.
 
 ### 6. Presentation
 - Summerize your research in a short presentation/pitch
