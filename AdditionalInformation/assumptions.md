@@ -1,6 +1,6 @@
 # Assumptions and more
 
-Before doing any analysis you need to check if you can even do this type of analysis! As these assumption checks are often forgotten, I want to shed some more light on this topic using this document. I will explain the checks you need to do and what you can do if those checks fail.
+Before doing any analysis you need to check if you can even do this type of analysis! If you do not check these assumptions, the outcome of your test does not mean anything! Hence, it is crucial to do these before doing the analysis! As these assumption checks are often forgotten, I want to shed some more light on this topic using this document. I will explain the checks you need to do and what you can do if those checks fail.
 
 ## Tests
 
