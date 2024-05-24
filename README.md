@@ -1,6 +1,6 @@
 # Changelog
 
-- Fri 24/05/2024: Added overview of assumption checks and what to do when those are violated, see [Assumptions](AdditionalInformation/assumptions.md)
+- Fri 24/05/2024: Added overview of assumption checks, see [Assumptions](AdditionalInformation/assumptions.md)
 - Wed 22/05/2024: Added Final report template in the [Final](Final) folder
 - Tue 14/05/2024: **See blackboard announcement for your team ID's and more information about the feedback sessions!**
 - Wed 01/05/2024: Fixed typos, added feedback schedule, and added clarification in [Project Proposal description](#3-project-proposal)
