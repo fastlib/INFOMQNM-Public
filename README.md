@@ -1,6 +1,7 @@
 # Changelog
 
-- Wed 15/05/2024: Added Final report template in the [Final](Final) folder
+- Fri 24/05/2024: Added overview of assumption checks and what to do when those are violated, see [Assumptions](AdditionalInformation/assumptions.md)
+- Wed 22/05/2024: Added Final report template in the [Final](Final) folder
 - Tue 14/05/2024: **See blackboard announcement for your team ID's and more information about the feedback sessions!**
 - Wed 01/05/2024: Fixed typos, added feedback schedule, and added clarification in [Project Proposal description](#3-project-proposal)
 - Mon 29/04/2024: Added clarification in [Project Proposal description](#3-project-proposal).
@@ -153,6 +154,7 @@ In the second phase of the project (May 14th - June 13th), you will conduct the 
 - I will do my best to reproduce your results, but if I'm unable to do so, you will get penalized. Instruct me well! Assume I'm one of your parents/little siblings/dog.
 
 ### 5. Final report
+- Make sure to check your assumptions before doing the analysis! See [Assumptions](AdditionalInformation/assumptions.md) for more information.
 - A LaTex template is available in the [final report folder](Final)
 - Adhere to the section outline as presented in the template!
 - We will sent your report back if you fail to adhere to the template or page limit.
