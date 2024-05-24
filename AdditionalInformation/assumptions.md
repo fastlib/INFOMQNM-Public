@@ -13,6 +13,7 @@ Requirements:
 
 Assumptions:
 - Indepence of samples within groups: See [Independence](#independence)
+- Independence of samples between groups: If not, then Paired T-Test
 - Normality within groups: Use **Shapiro-Wilk test** and visually inspect using QQ-plots and/or histogram. If fail, see [Normality](#normality)
 - Homogeneity of variances between groups: Use **Levene's test**. If fail, see [Homogeneity of variances](#homogeneity-of-variances)
 
@@ -49,7 +50,7 @@ Requirements:
 
 Assumptions:
 - Independence of samples within groups: See [Independence](#independence)
-- Independence of samples between groups: If not, then Repeated Measures ANOVA
+- Independence of samples between groups: If not, then Repeated Measures MANOVA
 - Multivariate normality within groups: Not easily tested, so testing normality for each DV separate using **Shapiro-Wilk test** is adviced. If fail, see [Normality](#normality)
 - Homogeneity of variances: Use **Levene's test**. If fail, see [Homogeneity of variances](#homogeneity-of-variances)
 - Homogeneity of covariance matrices: Use **Box's test**. If fail... we do not really know what to do. The effect of violating this is unclear.
@@ -87,10 +88,10 @@ Assumptions:
 ### Independence
 Independence of samples within groups is an assumption for almost every test except for a Repeated Measures (M)ANOVA. Independence is a vague term that basically boils down to the question if all samples are equally independent of each other. For example, imagine you measure a participant multiple times (say 10 times) and do this for 10 participants. In the end you obtain a dataset with 100 datapoints. Are these samples all independent from each other? No, because measurements taken from the same participant tend to be more equal (share more information) than measurements taken from two different participants. Despite this, seemingly, trivial explanation, many studies ignore this detail and often conduct T-Tests and ANOVA's on many thousands of datapoints. The result is that your test will more likely turn out to be signficiant while it actually isn't. In fact, studies have shown that with 10 observations per participant, your chance of finding a significant relation is **inflated by 15x**! This Type I error comes from the fact your test thinks there are much more independent samples (participants) than there actually are! 
 
-If you fail this assumption, there are two things you can do. Either you switch to a Repeated Measures test, or you aggregate your data to the extent it becomes independent. In our example of our 10 participants, this would mean we would aggregate each participant's datapoints into one datapoint, leaving us with 10 independent datapoints in the end. Remember that this aggregation does not necessarily has to be the average value. There are many ways you can aggregate a variable.
+If you fail this assumption, there are two things you can do. Either you switch to a Repeated Measures test, or you aggregate your data to the extent it becomes independent. A Repeated Measures test only allows us to check for within-subject effects. If you are mostly interested in between-subject effects, you would have to perform a Mixed (M)ANOVA which allows you to measure both within and between-subject effects. If you are only interested in between-subject effects, aggregation is your best option. In our example of our 10 participants, this would mean we would aggregate each participant's datapoints into one datapoint, leaving us with 10 independent datapoints in the end. Remember that this aggregation does not necessarily has to be the average value. There are many ways you can aggregate a variable.
 
 ### Normality
-All tests except regression assume the DV(s) follow a Normal distribution within each category/group. If your IV consists of three levels/groups, the DV must be normally distributed within each of these three groups. This sounds like a very strict assumption, but in reality this sounds worse than it is. In fact, (M)ANOVA's are designed to be fairly robust to non-normally distributed data up to a certain extent. Of course, your data cannot be extremely skewed, but slight violations can be accepted. 
+All tests except regression assume the DV(s) follow a Normal distribution within each category/group. If your IV consists of three levels/groups, the DV must be normally distributed within each of these three groups. This sounds like a very strict assumption, but in reality (M)ANOVA's are designed to be fairly robust to non-normally distributed data up to a certain extent. Of course, your data cannot be extremely skewed, but slight violations are accepted. 
 
 If you fail the assumption of normality, you can do two things. You either use a data transformation to deskew/scale the data or you choose to do a non-parametric test. Deskewing the data can be done by using lower powers if your data is right/positively skewed (square root, natural log) and higher powers when your data is left/negatively skewed (squared, cube).
 
