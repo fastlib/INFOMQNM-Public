@@ -11,11 +11,11 @@ I've chosen to keep the order the same and not flip it for the second session. I
 | 09.00-09.10 | TIHM 1     |   | 12.20-12.30 | EMOPHONE 1 |
 | 09.10-09.20 | TIHM 2     |   | 12.30-12.40 | EMOPHONE 2 |
 | 09.20-09.30 | TIHM 3     |   | 12.40-12.50 | EMOPHONE 3 |
-| 09.30-09.40 | TIHM 4     |   | 12.50-13.00 | EMOPHONE 4* |
-| 09.40-09.50 | TIHM 5     |   | 13.00-13.10 | EMOPHONE 5* |
-|             |            |   | 13.10-13.20 | SPOTIFY 1*  |
-|             |            |   | 13:20-13:30 | SPOTIFY 2*  |
-| 10.00-10.10 | MERP 1     |   | 13:30-13:40 | SPOTIFY 3*  |
+| 09.30-09.40 | TIHM 4     |   | 12.50-13.00 | EMOPHONE 4*|
+| 09.40-09.50 | TIHM 5     |   | 13.00-13.10 | EMOPHONE 5 |
+|             |            |   | 13.10-13.20 | SPOTIFY 1  |
+|             |            |   | 13:20-13:30 | SPOTIFY 2* |
+| 10.00-10.10 | MERP 1     |   |             |            |
 | 10.10-10.20 | MERP 2     |   |             |            |
 | 10.20-10.30 | MERP 3     |   |             |            |
 | 10.30-10.40 | MERP 4     |   |             |            |
