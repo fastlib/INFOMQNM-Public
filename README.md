@@ -1,5 +1,6 @@
 # Changelog
 
+- Tue 04/06/2024: Added presentation schedule + information, see [Presentations](AdditionalInformation/presentations.md)
 - Fri 24/05/2024: Added overview of assumption checks, see [Assumptions](AdditionalInformation/assumptions.md)
 - Wed 22/05/2024: Added Final report template in the [Final](Final) folder
 - Tue 14/05/2024: **See blackboard announcement for your team ID's and more information about the feedback sessions!**
