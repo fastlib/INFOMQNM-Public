@@ -166,9 +166,9 @@ In the second phase of the project (May 14th - June 13th), you will conduct the 
 - Summerize your research in a short presentation/pitch
 - Max. 6 minutes
 - Presentations will be a part of your final grade.
-- More information about the presentations will be announced [here](AdditionalInformation/presentations.md) in due time.
-- Presentations will be divided into two sessions. One on Tuesday and one on Thursday during the regular lecture times. Each session features 13 presentations.
-- If you have a preference, email me to reserve your spot in one of the sessions. Otherwise, I will assign you to a random slot.
+- More information about the presentations can be found [here](AdditionalInformation/presentations.md).
+- Presentations will be divided into two sessions. One on Tuesday and one on Thursday during regular lecture times. Each session features 12/13 presentations.
+- You can find the schedule [here](AdditionalInformation/presentations.md).
 
 
 ## Datasets
