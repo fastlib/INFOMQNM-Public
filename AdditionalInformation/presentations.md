@@ -51,13 +51,13 @@ If you are scheduled in the first half, be nice to your peers and stay for the s
 | TIHM 3        | SPOTIFY 1      |
 | SPOTIFY 3     | MERP 1         |
 | CASE 5        | TIHM 1         |
-| OWNDATA       |                |
+| OWNDATA       | EMOPHONE 2     |
 | **BREAK**     | **BREAK**      |
 | TIHM 4        | EMOPHONE 5     |
 | EMOPHONE 1    | EMOPHONE 4     |
 | TIHM 2        | CASE 1         |
 | MERP 3        | CASE 2         |
 | MERP 6        | MERP 5         |
-| EMOPHONE 2    | EMOPHONE 3     |
+|               | EMOPHONE 3     |
 
 
