@@ -1,5 +1,6 @@
 # Changelog
 
+- Thu 06/06/2024: Fixed small typo (total length of suggested outline was 7 minutes, should be 6 of course)
 - Tue 04/06/2024: Added presentation schedule + information, see [Presentations](AdditionalInformation/presentations.md)
 - Fri 24/05/2024: Added overview of assumption checks, see [Assumptions](AdditionalInformation/assumptions.md)
 - Wed 22/05/2024: Added Final report template in the [Final](Final) folder
