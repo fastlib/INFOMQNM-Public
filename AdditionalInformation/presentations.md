@@ -25,11 +25,11 @@
 - [1 min] Related work
   - What has already been done?
   - What are the gaps in literature and how do you bridge those gaps?
-- [2 min] Methodology
+- [1.5 min] Methodology
   - Preprocessing
   - Feature extraction
   - Type of analysis
-- [2 min] Results
+- [1.5 min] Results
   - Most important results of your analysis
   - Most important results and conclusions of your post-hoc analyses
 - [1 min] Last words
